@@ -6,6 +6,7 @@ let resposta = "";
 
 function registrarConta(){
     //referência aos elementos da pagina
+    //buscando os IDs
     let inDescricao = document.getElementById('inDescricao');
     let inValor = document.getElementById('inValor');
     let outListaContas = document.getElementById('outListaContas');
